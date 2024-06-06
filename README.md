@@ -1,5 +1,1 @@
-# My-First-Repo
-For experimenting with GIT
-
-
-Here is some brief description
+Here is some new text
