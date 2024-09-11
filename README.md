@@ -1,1 +1,14 @@
-Here is some new text
+# This is a header
+## This is a smaller header
+
+- bullet 1
+- bullet 2
+- Here is some new text
+
+
+My favorite browser is [google](https://google.com)
+
+
+Some more text
+
+and even more...
