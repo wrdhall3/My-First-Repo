@@ -12,3 +12,5 @@ My favorite browser is [google](https://google.com)
 Some more text
 
 and even more...
+
+This is a test to see how branching and pull requests work.
