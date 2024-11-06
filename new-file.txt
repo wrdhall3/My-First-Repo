@@ -1,1 +1,3 @@
 Some new file with content
+
+Some additional content
