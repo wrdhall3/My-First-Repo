@@ -1,3 +1,1 @@
 Some new file with content
-
-Some new changes after branch potection rule created
