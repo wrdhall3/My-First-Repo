@@ -17,3 +17,5 @@ Some more text
 and even more...
 
 This is a test to see how branching and pull requests work.
+
+Adding a comment by wrdhall1.
